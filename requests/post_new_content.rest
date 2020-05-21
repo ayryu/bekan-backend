@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/posts
+Content-Type: application/json
+
+{
+    "title": "Newest Suggestion",
+    "username": "lifedisassembler",
+    "verified": true
+}

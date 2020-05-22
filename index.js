@@ -18,7 +18,7 @@
       titleofpost: "Forest0",
       username: "Matilda",
       summary: "Dark mode using nature as a backdrop",
-      image: "/static/images/cards/dark-forest.jpg",
+      image: "/static/images/cards/forest1.jpg",
       imagetitle: "Forest with a dark background",
       verifiedSource: false,
       date: new Date()
@@ -29,7 +29,7 @@
       titleofpost: "Forest1",
       username: "Matilda",
       summary: "Dark mode using nature as a backdrop",
-      image: "/static/images/cards/dark-forest.jpg",
+      image: "/static/images/cards/forest2.jpg",
       imagetitle: "Forest with a dark background",
       verifiedSource: false,
       date: new Date()
@@ -40,7 +40,7 @@
       titleofpost: "Forest2",
       username: "Matilda",
       summary: "Dark mode using nature as a backdrop",
-      image: "/static/images/cards/dark-forest.jpg",
+      image: "/static/images/cards/forest3.jpg",
       imagetitle: "Forest with a dark background",
       verifiedSource: false,
       date: new Date()

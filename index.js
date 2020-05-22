@@ -14,10 +14,10 @@
 
   let posts = [
     {
-      id: 0,
-      titleofpost: "Forest0",
+      id: 1,
+      titleofpost: "First Forest",
       username: "Matilda",
-      summary: "Dark mode using nature as a backdrop",
+      summary: "Forests are the dominant terrestrial ecosystem of Earth, and are distributed around the globe.",
       image: "/static/images/cards/forest1.jpg",
       imagetitle: "Forest with a dark background",
       verifiedSource: false,
@@ -25,10 +25,10 @@
     },
 
     {
-      id: 1,
-      titleofpost: "Forest1",
+      id: 2,
+      titleofpost: "Second Forest",
       username: "Matilda",
-      summary: "Dark mode using nature as a backdrop",
+      summary: "Forests account for 75% of the gross primary production of the Earth's biosphere, and contain 80% of the Earth's plant biomass.",
       image: "/static/images/cards/forest2.jpg",
       imagetitle: "Forest with a dark background",
       verifiedSource: false,
@@ -36,43 +36,43 @@
     },
 
     {
-      id: 2,
-      titleofpost: "Forest2",
+      id: 3,
+      titleofpost: "Third Forest",
       username: "Matilda",
-      summary: "Dark mode using nature as a backdrop",
+      summary: "Net primary production is estimated at 21.9 gigatonnes carbon per year for tropical forests, 8.1 for temperate forests, and 2.6 for boreal forests.",
       image: "/static/images/cards/forest3.jpg",
       imagetitle: "Forest with a dark background",
       verifiedSource: false,
       date: new Date()
     },
     {
-      id: 3,
-      titleofpost: "Forest3",
+      id: 4,
+      titleofpost: "Fourth Forest",
       username: "Matilda",
-      summary: "Dark mode using nature as a backdrop",
-      image: "/static/images/cards/dark-forest.jpg",
+      summary: "Forests at different latitudes and elevations form distinctly different ecozones.",
+      image: "/static/images/cards/forest4.jpg",
       imagetitle: "Forest with a dark background",
       verifiedSource: false,
       date: new Date()
     },
 
     {
-      id: 4,
-      titleofpost: "Forest4",
+      id: 5,
+      titleofpost: "Fifth Forest",
       username: "Matilda",
-      summary: "Dark mode using nature as a backdrop",
-      image: "/static/images/cards/dark-forest.jpg",
+      summary: "Boreal forests around the poles, tropical forests around the Equator, and temperate forests at the middle latitudes.",
+      image: "/static/images/cards/forest5.jpg",
       imagetitle: "Forest with a dark background",
       verifiedSource: false,
       date: new Date()
     }, 
 
     {
-      id: 5,
-      titleofpost: "Forest5",
+      id: 6,
+      titleofpost: "Sixth Forest",
       username: "Matilda",
-      summary: "Dark mode using nature as a backdrop",
-      image: "/static/images/cards/dark-forest.jpg",
+      summary: "Higher elevation areas tend to support forests similar to those at higher latitudes, and amount of precipitation also affects forest composition.",
+      image: "/static/images/cards/forest6.jpg",
       imagetitle: "Forest with a dark background",
       verifiedSource: false,
       date: new Date()

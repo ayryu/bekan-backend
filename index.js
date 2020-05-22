@@ -6,6 +6,11 @@
   app.use(express.json())
   app.use(cors())
 
+  let banner = {
+    image: "/static/images/cards/dark-forest.jpg",
+    category: "Forests"
+  }
+
   let posts = [
     {
       id: 0,
@@ -78,7 +83,10 @@
   })
 
   app.get('/api/posts', (req, res) => {
-    res.json(posts)
+    res.json({
+      banner: banner,
+      posts:posts
+    })
   })
 
   app.get('/api/posts/:id', (request, response) => {

@@ -13,8 +13,8 @@
   }
 
   const createNewID = () => {
-      const maxId = notes.length > 0
-      ? Math.max(...notes.map(n => n.id))
+      const maxId = posts.length > 0
+      ? Math.max(...posts.map(post => post.id))
       : 0
       return maxId + 1;
   }

@@ -12,6 +12,13 @@
     category: "Forests"
   }
 
+  const createNewID = () => {
+      const maxId = notes.length > 0
+      ? Math.max(...notes.map(n => n.id))
+      : 0
+      return maxId + 1;
+  }
+
   let posts = [
     {
       id: 1,
@@ -107,7 +114,7 @@
     const post = {
       titleofpost: postData.title,
       summary: postData.content,
-      id: postData.id,
+      id: createNewID(),
       image: "/static/images/cards/dark-forest.jpg",
       imagetitle: "Forest with a dark background",
     }

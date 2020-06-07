@@ -1,5 +1,5 @@
 # Bekan 
-<a href="https://bekan.herokuapp.com/"><img src="https://user-images.githubusercontent.com/28266072/83982107-c261de80-a8f1-11ea-8900-1e1a06593451.jpg" width="80%" height="20%" title="Bekan" alt="Bekan"></a>
+<a href="https://bekan.herokuapp.com/"><img src="https://user-images.githubusercontent.com/28266072/83982107-c261de80-a8f1-11ea-8900-1e1a06593451.jpg" width="490" height="200" title="Bekan" alt="Bekan"></a>
 <!-- > Quote Text -->
 
 A platform for aggregating evidence-based solutions to social issues.  
